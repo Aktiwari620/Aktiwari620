@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhishek kumar.
-- 👀 I’m interested in coding in C++ as well as in Python too. 
+- 👀 I'm interested in coding in both C++ and Python. 
 - 🌱 I’m currently learning SQL.
 - 💞️ I’m looking to collaborate on building Software projects for professional bussiness. 
 - 📫 Contact me on @Abhishekkumartiwari1611@gmail.com.
