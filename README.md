@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Abhishek kumar.
-- 👀 I'm interested in coding in both C++ and Python. 
+- 👀 I'm interested in coding in both C++ and Python.
+- 🚀 Proficient in manual testing with tools like Postman, ensuring robust and reliable API performance.   
 - 🌱 I’m currently learning Data structure and Algorithms.
 - 💞️ I’m looking to collaborate on building Software projects for professional bussiness. 
 - 📫 Contact me on @Abhishekkumartiwari1611@gmail.com.
