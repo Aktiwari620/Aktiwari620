@@ -10,7 +10,8 @@
 
 - 📫 How to reach me **Abhishekkumartiwari1611@gmail.com**
 
-- 📄 Know about my experiences <a href="[https://drive.google.com/file/d/1PTKcflbLCaWUzr55fmVd3wOTXRi8guPh/view?usp=drive_link](https://drive.google.com/file/d/1PTKcflbLCaWUzr55fmVd3wOTXRi8guPh/view?usp=drive_link)" target="_blank">View My Resume</a>
+- 📄 Know about my experiences [**View My Resume**]([https://drive.google.com/file/d/1PTKcflbLCaWUzr55fmVd3wOTXRi8guPh/view?usp=drive_link](https://drive.google.com/file/d/1PTKcflbLCaWUzr55fmVd3wOTXRi8guPh/view?usp=drive_link))
+
 
 
 
