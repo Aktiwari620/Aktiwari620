@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning Automation testing **Tools like Selenium, TestNG, and CI/CD** and  Framework like **DjanGo**
 
-- 💬 Ask me about **Postman**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **Abhishekkumartiwari1611@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LT6jOJKV_atESn8C1pV-3DfnJeHdEqfA/view?usp=sharing](https://drive.google.com/file/d/1LT6jOJKV_atESn8C1pV-3DfnJeHdEqfA/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1LT6jOJKV_atESn8C1pV-3DfnJeHdEqfA/view?usp=sharing](https://drive.google.com/file/d/1LT6jOJKV_atESn8C1pV-3DfnJeHdEqfA/view?usp=sharing](https://drive.google.com/file/d/1PTKcflbLCaWUzr55fmVd3wOTXRi8guPh/view?usp=drive_link))
 
 - ⚡ Fun fact **I once wrote code so clean, even my debugger was impressed! 😎💻✨**
 
