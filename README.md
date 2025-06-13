@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aktiwari620&label=Profile%20views&color=0e75b6&style=flat" alt="aktiwari620" /> </p>
 
-- 🌱 I’m currently learning Automation testing **Tools like Selenium, TestNG, and CI/CD** and  Framework like **DjanGo**
+- 🌱 I’m currently learning Automation testing **Tools like Selenium, TestNG, CI/CD** and Python Framework like **DjanGo**
 
 - 💬 Ask me about **Python**
 
