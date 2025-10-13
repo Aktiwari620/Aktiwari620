@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **Abhishekkumartiwari1611@gmail.com**
 
-- 📄 Know about my experiences([https://drive.google.com/file/d/1PTKcflbLCaWUzr55fmVd3wOTXRi8guPh/view?usp=drive_link](https://drive.google.com/file/d/1ebO8oLGliGRn7Eo-VeoiTdRT5A1ZJKg2/view?usp=sharing))
+- 📄 Know about my experiences ([https://drive.google.com/file/d/1PTKcflbLCaWUzr55fmVd3wOTXRi8guPh/view?usp=drive_link](https://drive.google.com/file/d/1ebO8oLGliGRn7Eo-VeoiTdRT5A1ZJKg2/view?usp=sharing))
 
 
 
